@@ -1,5 +1,9 @@
 ### Hi there 👋
+My name is Kaushik Mondal, and I am a full stack software engineer living in the Washington DC area. I have been creating web applications for a few years now, and I'm looking to start a career in software engineering. Check out my projects which have a live link to the website.
 
+## Links
+[<img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=6663FF" alt="badge"/>](https://www.linkedin.com/in/kaushikdev/)
+[<img src="https://img.shields.io/badge/website-1E1E1E?style=for-the-badge&logo=About.me&logoColor=6663FF" alt="badge"/>](https://www.kaushikm.com)
 <!--
 **kaushikkm17/kaushikkm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
