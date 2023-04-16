@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 My name is Kaushik Mondal, and I am a full stack software engineer living in the Washington DC area. I have been creating web applications for a few years now, and I'm looking to start a career in software engineering. I'm also an AWS Certified Cloud Practitioner. Check out my projects which have a live link to the website.
 
 ## Links
