@@ -3,7 +3,7 @@ My name is Kaushik Mondal, and I am a full stack software engineer living in the
 
 ## Links
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=90a4fc" alt="badge"/>](https://www.linkedin.com/in/kaushikdev/)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=90a4fc" alt="badge"/>](https://www.kaushikm.com)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=90a4fc" alt="badge"/>](https://www.kaushikm.com)
 
 ## Skills
 ### Frontend
